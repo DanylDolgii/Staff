@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tom",
+    "position": "director",
+    "phone": "555 412-4587",
+    "salary": 3200
+  },
+  {
+    "name": "Alice",
+    "position": "accountant",
+    "phone": "777 851-6549",
+    "salary": 3000
+  },
+  {
+    "name": "Robert",
+    "position": "manager",
+    "phone": "555 361-5879",
+    "salary": 2700
+  },
+  {
+    "name": "Mary",
+    "position": "manager",
+    "phone": "555 333-8899",
+    "salary": 2700
+  },
+  {
+    "name": "Linda",
+    "position": "secretary",
+    "phone": "555 211-1110",
+    "salary": 2150
+  }
+]
